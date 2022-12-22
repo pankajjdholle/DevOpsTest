@@ -1,0 +1,49 @@
+    1  apt-get udpate
+    2  sudo apt-get update
+    3  clear
+    4  git version
+    5  tail
+    6  version
+    7  lsb_release -d
+    8  mkdir Code
+    9  git clone https://github.com/pankajjdholle/DevOpsTest.git
+   10  ls -l
+   11  cd DevOpsTest/
+   12  ls -l
+   13  cat Test1.doc
+   14  cd ..
+   15  pwd
+   16  mkdir CodeLive
+   17  cd CodeLive
+   18  git init
+   19  clear ls -l
+   20  clear
+   21  ls -l
+   22  git ls-files
+   23  ls -la
+   24  touch testlive.txt
+   25  git status
+   26  ls -la
+   27  ls -l
+   28  clear
+   29  ls -l
+   30  git add testlive.txt
+   31  git ls-files
+   32  git status
+   33  git commit -m "1st commit"
+   34  git status
+   35  touch test2.txt
+   36  git status
+   37  git add test2.txt
+   38  git status
+   39  git commit
+   40  git commit -m "2nd commit"
+   41  git status
+   42  git remote add origin https://github.com/pankajjdholle/DevOpsTest.git
+   43  git remote -v
+   44  git branch
+   45  git push origin master
+   46  clear
+   47  git branch
+   48  git push origin master
+   49  history
